@@ -1,7 +1,3 @@
-# Docker
-### git add README.md
-### git commit -m "first commit"
-### git push -u origin main
 
 # Docker- Comandos Basicos
 ### **1- Descargar imagen ISO**
