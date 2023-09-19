@@ -14,6 +14,6 @@
 ### Para comprobar la ip y hacer ping es necesario descargar los paquetes net-tools (herraminetas de internet) y iputils-ping (paquete para hacer ping) colocando ping www.google.com
 ### 5- Crea un contenedor con el nombre 'ubu2'. ¿Puedes hacer ping entre los contenedores?
 ### Se puede hacer perfectamente ping
-### Sal del terminal, ¿que ocurrió con el contenedor?
+### 6- Sal del terminal, ¿que ocurrió con el contenedor?
 ### El contenedor sigue funcionando
 
