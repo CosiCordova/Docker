@@ -4,7 +4,8 @@
 ### git push -u origin main
 
 # Docker- Comandos Basicos
-### 1- Descargar imagen ISO
+### `rgb(9, 105, 218)` 1- Descargar imagen ISO
+### Docker pull ubuntu
 ### 2- Crea un contenedor sin ponerle nombre. ¿está arrancado? Obtén el nombre
 ### El contenedor arranca correctamente bajo el nombre de stupefield_ellis
 ### 3-  Crea un contenedor con el nombre 'ubu1'. ¿Como puedes acceder a él?
@@ -16,4 +17,9 @@
 ### Se puede hacer perfectamente ping
 ### 6- Sal del terminal, ¿que ocurrió con el contenedor?
 ### El contenedor sigue funcionando
+### 7- ¿Cuanta memoria en el disco duro ocupaste? ¿Hay alguna herramienta de docker para calcularlo?
+### Utilize 77.8MB y se puede ver con docker ps --size
+### 8- ¿Cuanta RAM ocupan los contenedores? Crea cuantos contenedores necesites para calcularlo
+
+### Para saber cuanta ram utilizan me sirve el comando docker stats (a mi me salio 2MB)
 
