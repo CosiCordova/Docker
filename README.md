@@ -5,7 +5,7 @@
 
 # Docker- Comandos Basicos
 ### **1- Descargar imagen ISO**
-### *Docker pull ubuntu*
+ *Docker pull ubuntu*
 ### **2- Crea un contenedor sin ponerle nombre. ¿está arrancado? Obtén el nombre**
 ### *El contenedor arranca correctamente bajo el nombre de stupefield_ellis*
 ### **3-  Crea un contenedor con el nombre 'ubu1'. ¿Como puedes acceder a él?**
